@@ -4,7 +4,7 @@ import time
 from os import system
 from time import sleep
 
-## ORIGINAL SCRIPT BY 
+## FAKE EMAIL TOOLS BY : NAL
 
 try:
     import requests
@@ -37,7 +37,7 @@ _____     _          _____                 _ _
 | |_ / _` | |/ / _ \ |  _| | '_ ` _ \ / _` | | |
 |  _| (_| |   <  __/ | |___| | | | | | (_| | | |
 |_|  \__,_|_|\_\___| |_____|_| |_| |_|\__,_|_|_|
-
+Code By : Nal
 """
 
 system("clear")
@@ -81,7 +81,7 @@ else:
     sleep(3)
     hprint(W + " Process can take some time !!")
     print ('')
-    print (Y + " Visit www.github.com/htr-tech for More Tools" + W)
+    print (Y + " Visit www.github.com/naldydjafar For More Tools" + W)
     print ('')
 
 
